@@ -1,4 +1,4 @@
-name: Build Unsigned Debug IPA 
+name: Build Unsigned Debug IPA
 
 on:
   push:
